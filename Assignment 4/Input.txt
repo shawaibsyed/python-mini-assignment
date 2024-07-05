@@ -1,0 +1,1 @@
+This is a test file for a script that will be used for testing. My script also functions by encrypting my phone number with special characters: +91-99988-87770.
